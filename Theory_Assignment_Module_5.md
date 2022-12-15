@@ -1,5 +1,5 @@
 # DB
-Q-1 What do you understand By Database<\n>
+Q-1 What do you understand By Database
 A database is information that is set up for easy access, management and updating. Computer databases typically store aggregations of data records or files that contain information, such as sales transactions, customer data, financials and product information.
 Databases are used for storing, maintaining and accessing any sort of data. They collect information on people, places or things. That information is gathered in one place so that it can be observed and analyzed. Databases can be thought of as an organized collection of information.
 Q-2 What is Normalization?
